@@ -1,0 +1,32 @@
+.span_dropdown {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  font-size: 13px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.dropdown_icon {
+  margin-top: 3px;
+  margin-left: 5px;
+  margin-right: 20px;
+}
+
+.div1_wrapper {
+  padding: 3;
+}
+
+.input_wrapper {
+  border-bottom: 1px solid black;
+}
+
+.input {
+  border: none;
+  outline: none;
+}
+
+.fontStyle {
+  font-size: 18px;
+  font-weight: 600;
+}
